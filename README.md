@@ -31,27 +31,31 @@ I'm a motivated and adaptable BSIT student passionate about bridging creative de
 
 ### General Math Learning Portal
 **Role:** Project Manager, UI/UX Designer & Programmer  
-A learning portal designed to help store and access General Math lessons. Built using **Microsoft Access**.  
-**Responsibilities:** Managed timelines, designed the UI, and implemented core functionalities.
+Designed and developed a user interface for a learning portal aimed at storing and accessing lessons for the General Mathematics subject, year 2019. The system was implemented using **Microsoft Access**.   
+**Responsibilities:** Managed project timelines, designed the user interface, and programmed the system’s core functionalities.  
+
+**System Video:**
 
 ### Missing Persons System Interface  
 **Role:** Project Manager & UI/UX Designer  
-Designed a Figma prototype for a system that tracks and displays missing person information, as part of an HCI course.
+Designed a user interface for a system that helps track and display information about missing persons. The design was created using Figma as part of our Human-Computer Interaction (HCI) course.
+**Responsibilities:** Managed the project schedule and designed the system interface and its key 
+functionalities. 
+
+**Figma Link:**
 
 ### Barcode-Based Classroom Attendance System  
 **Role:** UI/UX and Hardware Designer, Assistant Project Manager  
-Created a classroom attendance system using **Arduino**, Wi-Fi module, and LCD. Developed both the hardware design and admin interface.
+Developed a barcode-based classroom attendance system using **Arduino technology** to efficiently monitor student attendance. The system utilized components such as the Arduino Uno, Wi-Fi module, LCD display, and other electronic parts. 
+**Responsibilities:** Designed both the hardware (interior and exterior components) and the user 
+interface for the admin panel. 
+
+**Figma Link:**
 
 ---
 
-## Certifications
-
-- Alibaba Cloud Certification – Networking on the Cloud (2025)  
-- Alibaba Cloud Certification – Relational vs NoSQL Databases (2025)  
-- CyberSafety Seminar – with RCQC MediaTech and MaraLabs (2025)  
-- Ignite Leadership Training & Workshop (2024)  
-- Your Online Blueprint – Digital Privacy & Security (2024)  
-- Certificate of Completion in Robotics (2015)
+**Other Logo and Interfaces:**
+**Figma Link:**
 
 ---
 
@@ -60,8 +64,6 @@ Created a classroom attendance system using **Arduino**, Wi-Fi module, and LCD. 
 **Vice President for Internal Affairs**  
 *Howmart Youth Organization*  
 *2021 – Present*
-
----
 
 ---
 
