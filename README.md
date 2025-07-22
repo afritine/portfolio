@@ -55,6 +55,7 @@ interface for the admin panel.
 ---
 
 **Other Logo and Interfaces:**
+
 **Figma Link:**
 
 ---
