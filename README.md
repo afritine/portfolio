@@ -1,9 +1,3 @@
-# Christine D. Africa
-
-**BS in Information Technology | Quezon City University**  
-africa.christine.delluta@gmail.com  
-0930-424-9141  
-Aspiring UI/UX & Hardware Designer | Future Innovator
 
 ---
 
